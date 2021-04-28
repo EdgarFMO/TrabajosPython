@@ -13,5 +13,6 @@ def sumatoria_2(A,B,C):
 A = [4,6,8]
 B = [2,2,2]  
 C = [1,2,3]
+
 sumatoria_2(A,B,C)
    
