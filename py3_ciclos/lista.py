@@ -10,5 +10,6 @@ def sumatoria_2(A,B):
   return(acumulador) 
 A = [4,6,8]
 B = [2,2,2]  
+
 sumatoria_2(A,B)
    
