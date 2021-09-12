@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color:slategrey;
+    font-family:'Times New Roman';
+}
+
+header{
+    height:140px;
+    background-image: url(https://d107a8nc3g2c4h.cloudfront.net/blog/wp-content/uploads/2018/05/CR7-blog-banner.jpg);
+    text-align:center;
+    line-height: 220px;
+  }
+
+#margen{
+    width:80%;
+    margin:auto;
+    margin-top:20px;
+    margin-bottom:20px;
+    border-radius: 20px;
+}
+
+aside{
+    margin:0px;
+    width: 31%;
+    height: auto;
+    margin-top:10px;
+    margin-bottom: 10px;
+    float: right;
+    text-align: justify;
+    line-height: 23px;
+    padding: 6px;
+    border-radius:7px;
+  }
+
+.color{
+    color:mintcream;
+}
